@@ -1,7 +1,16 @@
-# Flight Price Prediction 
-Flight fare prediction is a classical problem of time series forecasting that finds trends in past observations to outline the future
-Many popular flight booking websites today, including Google Flights, showcase important insights on:
-Current fair status: high, low or fair
-Past fare trends, upcoming future trends and
-Helps decide the right time to book a flight ticket.
-In this project, we are going to build a Python Flight Fare Prediction App, that returns the fare prediction for a given set of travel details, like: departure date, arrival date, departure city, arrival city, stoppages, and the airline carrier.
+##DecoderBot Internship
+🚀 Dive into a world of diverse projects with DecoderBot internships! 🌐✨
+
+1️⃣ **Netflix IMDb Score Dashboard:**
+Unleash your creativity in data visualization! Craft an interactive dashboard on Netflix IMDb scores using Tableau, merging your love for entertainment with analytical finesse.
+
+2️⃣ **Spotify Tracks Genre Analysis:**
+Immerse yourself in the rhythm of data! Analyze Spotify tracks, unraveling musical trends and patterns. Your insights will shape the future of how we experience and enjoy music.
+
+3️⃣ **Flight Price Prediction Task:**
+Embark on a journey in predictive analytics! Develop algorithms to forecast flight prices, blending data science with travel dynamics. Your work will redefine how we plan our adventures.
+
+4️⃣ **Real-Time Space Mission Dashboard:**
+Blast off into the cosmos with real-time data! Create a dynamic dashboard tracking space missions, merging the thrill of exploration with cutting-edge technology.
+
+DecodeBot internships offer a spectrum of challenges, empowering you to make an impact across entertainment, music, travel, and space exploration. Join us in decoding the future! 🌌📊
